@@ -10,8 +10,8 @@ COnifgurar o git
 
 '''
 
-git config --global user.name 'Rodrigo'
-git config --global user.email 'diinhobass189@gmail.com'
+git config --global user.name 'NOME'
+git config --global user.email 'EMAIL'
 git config --global init.defaultBranch main 
 CONFIGURE O .gitignore
 git init
